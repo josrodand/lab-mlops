@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/jlrodriguez.andreu/dev/lab-mlops/mlops-ml-project/mlruns/0/77a6b29c2f644d60a3d08b689f3d5d4c/artifacts
+deleted_time: 1719225753513
+end_time: 1719225608894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 77a6b29c2f644d60a3d08b689f3d5d4c
+run_name: grandiose-worm-732
+run_uuid: 77a6b29c2f644d60a3d08b689f3d5d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719225605648
+status: 3
+tags: []
+user_id: jlrodriguez.andreu

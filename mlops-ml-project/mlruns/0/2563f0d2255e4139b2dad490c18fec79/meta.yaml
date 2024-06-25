@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/jlrodriguez.andreu/dev/lab-mlops/mlops-ml-project/mlruns/0/2563f0d2255e4139b2dad490c18fec79/artifacts
+deleted_time: 1719225753513
+end_time: 1719224567369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2563f0d2255e4139b2dad490c18fec79
+run_name: painted-penguin-526
+run_uuid: 2563f0d2255e4139b2dad490c18fec79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719224562505
+status: 3
+tags: []
+user_id: jlrodriguez.andreu

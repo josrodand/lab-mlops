@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jlrodriguez.andreu/dev/lab-mlops/mlops-ml-project/mlruns/0/c2bec33e02c640f2aeee78afe04ab5a9/artifacts
+end_time: 1719225814088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2bec33e02c640f2aeee78afe04ab5a9
+run_name: mercurial-auk-554
+run_uuid: c2bec33e02c640f2aeee78afe04ab5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719225811067
+status: 3
+tags: []
+user_id: jlrodriguez.andreu
